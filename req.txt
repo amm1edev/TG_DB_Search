@@ -1,0 +1,6 @@
+phonenumbers
+tempfile
+aiogram
+zipfile
+pandas
+os
