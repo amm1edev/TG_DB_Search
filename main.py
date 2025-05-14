@@ -1,4 +1,3 @@
-
 import phonenumbers, os, zipfile, tempfile
 from aiogram import Bot, Dispatcher, types
 from aiogram.types import InputFile
@@ -7,7 +6,7 @@ from collections import defaultdict
 import pandas as pd
 from search_engine import search_in_dbs
 
-API_TOKEN = '7206134560:AAFn_f7ZqgV62DAoio2PPqZQMDwj7nGdVCY'
+API_TOKEN = 'YOUR_TOKEN'
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
 
