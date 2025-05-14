@@ -1,6 +1,6 @@
 phonenumbers
 tempfile
-aiogram
+aiogram==2.25.2
 zipfile
 pandas
 os
