@@ -1,21 +1,22 @@
-Как установить?
+# TG DB Search -- How to install and what is it?
 
-Скачать питон с офф сайта
+## This is free soft for search data from folder DBs (it stores all the dbs that you throw into the bot)
 
-Прописать pip install -r req.txt в дирректории с ботом
+# How to install?
 
-Создать и скопировать токен бота у @botfather
+## Write `pip install -r req.txt` in dirrectory with bot.
 
-Вставить в API_TOKEN
+## Create bot in the @botfather and copy token.
 
-Прописать python main.py
+## Paste API_TOKEN.
 
+## Write `python3 main.py` in dirrectory with bot.
 
-Пользование:
+# Use:
 
-Для поиска элемента просто напишите что либо
+**To search, enter the word that interests you.**
 
-/list - Активные базы данных
-/delete [name] - удалить бд
-/history - история запросов
-/stats - статистика бд
+`/list` *- Active databases*
+`/delete [name]` *- delete database*
+`/history` *- query history*
+`/stats` *- database statistics*
